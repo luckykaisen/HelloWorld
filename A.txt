@@ -1,1 +1,1 @@
-server.url=http://test.com
+server.url=http://admin.com
